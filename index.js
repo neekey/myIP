@@ -1,6 +1,3 @@
-/*
- */
-
 var getNetworkIPs = (function () {
     var ignoreRE = /^(127\.0\.0\.1|::1|fe80(:1)?::1(%.*)?)$/i;
 
